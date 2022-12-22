@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tanay Jagnani
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning CSS and JavaScript
+- 👀 I’m interested in web and application development 
+- 🌱 I’m currently practicing ReactJs and Flutter
 - 📫 How to reach me tanayjagnani@gmail.com
 <!--- - 💞️ I’m looking to collaborate on ... --->
 
