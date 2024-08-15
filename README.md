@@ -3,10 +3,10 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science at AMC Engineering college, Bangalore.
-- 💼 &nbsp; Working as a Developer Intern at PySphere.
-- 🌱 &nbsp; Learning more about Flutter and React.
-- ✍️ &nbsp; Pursuing Web and Application Development as hobby.
+- 🎓 &nbsp; Computer Science Graduate.
+- 💼 &nbsp; Working as a Frontend Developer Intern at hireloom.ai.
+- 🌱 &nbsp; Learning more about Flutter and Nexjs.
+- ✍️ &nbsp; Developing web applications using nextjs and typescript and mobile applications using flutter.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
