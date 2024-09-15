@@ -4,9 +4,8 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Computer Science Graduate.
-- 💼 &nbsp; Working as a Frontend Developer Intern at hireloom.ai.
-- 🌱 &nbsp; Learning more about Flutter and Nexjs.
-- ✍️ &nbsp; Developing web applications using nextjs and typescript and mobile applications using flutter.
+- 🌱 &nbsp; Exploring Nexjs.
+- ✍️ &nbsp; Developing web applications using nextjs and typescript.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
