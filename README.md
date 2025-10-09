@@ -1,9 +1,6 @@
-<h1 align="center">Konnichiwa, I am Tanay Jagnani</h1>
-<h3 align="center">Full time Weeb, Part time developer</h3>
+![Header](./github-header-banner.png)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tanay0209&label=Profile%20views&color=0e75b6&style=flat" alt="imnilesh18" />
-</p>
+
 
 <div align="center">
   <img
@@ -35,6 +32,10 @@
   <a href="https://instagram.com/__k.a.k.a.r.o.t.__" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="40" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tanay0209&label=Profile%20views&color=0e75b6&style=flat" alt="tanay0209" />
 </p>
 
 ---
